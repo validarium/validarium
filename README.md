@@ -41,6 +41,6 @@
 - [Twitter]()
 - [Telegram](https://t.me/microfixer)
 - [Discord]()
-- [Keybase](https://keybase.io/microfixer)
+- [Keybase](https://keybase.io/validarium)
 - [Web-page](https://validarium.net)
 
