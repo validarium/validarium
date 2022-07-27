@@ -37,10 +37,8 @@
 
 ### Contacts:
 - [GitHub](https://github.com/microfixer)
-- [Medium]()
-- [Twitter]()
+- [Twitter](https://twitter.com/microdevops)
 - [Telegram](https://t.me/microfixer)
-- [Discord]()
 - [Keybase](https://keybase.io/validarium)
 - [Web-page](https://validarium.net)
-
+- [Medium]()
