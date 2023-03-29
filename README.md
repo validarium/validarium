@@ -28,7 +28,7 @@
 - [Gnoland]()
 
 ## Contributions 
-- [Muon node alert bot](http://t.me/Muon_node_status_alert_bot)
+- [Muon node telegram alert bot](http://t.me/Muon_node_status_alert_bot)
 
 ### Community
 - [Validarium](https://validarium.net)
@@ -152,6 +152,3 @@ qZ13Jw4LXg48+JAqPk6vu1Zo+RDL3qbrd2b4/R0jbA/nOVib28fZhcjXUQ2TBw==
 64B6 3B0B 26A7 F5C2 4A6D BB1C 9B81 F785 7C14 22E9
 ```
 </details>
-  
-  
-  
