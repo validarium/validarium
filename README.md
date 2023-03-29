@@ -2,7 +2,7 @@
 
 
 
-- https://validarium.net
+   - https://validarium.net
 
 # Validarium
 - [Will be updated soon]()
@@ -45,28 +45,27 @@
 
 ### Infrastructure
 
-Bare metal servers
- Data center colocation
+ Bare metal servers  
+ Data center colocation  
 
- 1x AMD EPYC 7402P 24-Core Processor
- 1x 240GB SSD
- 2x 480GB SSD
- 1x 8TB HDD
- 64GB RAM   
- 1x 1Gbps
-  Debian 11 "bullseye"
-  KVM
-
- 2x Intel(R) Xeon(R) Silver 4214 CPU @ 2.20GHz
- 2x 960GB SSD
- 2x 1TB NVME
- 2x 8TB HDD
- 1x 1Gbps
- 240GB RAM
- 1x 1Gbps
- Debian 11 "bullseye"
- KVM
-
+  1x AMD EPYC 7402P 24-Core Processor  
+  1x 240GB SSD  
+  2x 480GB SSD  
+  1x 8TB HDD  
+  64GB RAM  
+  1x 1Gbps  
+  Debian 11 "bullseye"  
+  KVM  
+ 
+  2x Intel(R) Xeon(R) Silver 4214 CPU @ 2.20GHz  
+  2x 960GB SSD  
+  2x 1TB NVME  
+  2x 8TB HDD  
+  1x 1Gbps  
+  240GB RAM  
+  1x 1Gbps  
+  Debian 11 "bullseye"  
+  KVM  
 
 <details>
   <summary>OpenPGP Key:</summary>
