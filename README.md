@@ -31,7 +31,7 @@
 - [Muon node telegram alert bot](http://t.me/Muon_node_status_alert_bot)
 
 ### Community
-- [Validarium](https://validarium.net)
+- [Validarium](http://validarium.net)
 
 ## Other Activities:
 - [Will be updated soon]()
@@ -41,7 +41,7 @@
 - [Twitter](https://twitter.com/microdevops)
 - [Telegram](https://t.me/microfixer)
 - [Keybase](https://keybase.io/validarium)
-- [Web-page](https://validarium.net)
+- [Web-page](http://validarium.net)
 
 ### Infrastructure
 
