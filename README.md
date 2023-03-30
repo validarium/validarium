@@ -2,7 +2,7 @@
 
 
 
-   - https://validarium.net
+   - http://validarium.net
 
 # Validarium
 - [Will be updated soon]()
